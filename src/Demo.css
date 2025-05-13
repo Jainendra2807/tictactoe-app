@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 120px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    background-color: aqua;
+    padding: 10px 20px;
+    justify-content: center;
+    align-items: center;
+}
+.colors{
+    padding: 5px 10px;
+}
